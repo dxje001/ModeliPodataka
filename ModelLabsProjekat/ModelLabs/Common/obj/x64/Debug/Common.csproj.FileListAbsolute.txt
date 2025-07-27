@@ -1,0 +1,6 @@
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\bin64\FTN.Common.dll
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\bin64\FTN.Common.pdb
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\Common\obj\x64\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\Common\obj\x64\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\Common\obj\x64\Debug\FTN.Common.dll
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\Common\obj\x64\Debug\FTN.Common.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\bin64\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csproj.AssemblyReference.cache
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\NetworkM.BEDDB4BB.Up2Date
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x64\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb

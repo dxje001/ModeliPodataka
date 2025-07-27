@@ -1,0 +1,7 @@
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\bin64\FTN.Services.NetworkModelService.dll
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\bin64\FTN.Services.NetworkModelService.pdb
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkModelService.csproj.AssemblyReference.cache
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkModelService.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x64\Debug\NetworkM.C13A89EF.Up2Date
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.dll
+C:\Users\Dusan\OneDrive\Radna površina\BMKZO_2\4.Godina\MPUPM\ModelLabsProjekat\ModelLabs\NetworkModelService\obj\x64\Debug\FTN.Services.NetworkModelService.pdb
